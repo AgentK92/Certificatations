@@ -1,2 +1,2 @@
-# Certificatations
+# Certifications
 List of Certifications acquried.
